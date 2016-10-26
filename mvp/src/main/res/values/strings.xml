@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MVP</string>
+    <string name="title">手机归属地查询</string>
+    <string name="button">查询</string>
+    <string name="hint">请输入手机号</string>
+</resources>
